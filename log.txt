@@ -1,0 +1,13 @@
+Początek testowanego kodu.
+Został zgłoszony wyjątek:
+System.Exception: Zgłoszono wyjątek typu 'System.Exception'.
+   w Engine.Test.Start.Code() w C:\Users\Adm.dom\Desktop\Test\Tester\_003CModule_003E.cs:wiersz 43
+Zgłoszono wyjątek typu 'System.Exception'.
+kscode_installer
+
+   w Engine.Test.Start.Code() w C:\Users\Adm.dom\Desktop\Test\Tester\_003CModule_003E.cs:wiersz 43
+-2146233088
+Void Code()
+
+1) Kontynuuj
+2) Wyjdź z programu
